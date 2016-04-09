@@ -136,7 +136,7 @@ return /******/ (function(modules) { // webpackBootstrap
 	  return Widget;
 	}(_react2.default.Component);
 	
-	var container = document.querySelector('#trialreach-widget');
+	var container = document.querySelector('#widget');
 	
 	_reactDom2.default.render(_react2.default.createElement(Widget, null), container);
 	

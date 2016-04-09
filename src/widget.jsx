@@ -34,7 +34,7 @@ class Widget extends React.Component {
   }
 }
 
-const container = document.querySelector('#trialreach-widget');
+const container = document.querySelector('#widget');
 
 ReactDOM.render(<Widget />, container);
 
