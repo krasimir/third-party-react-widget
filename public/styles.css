@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Courier New';
+  color: #00F;
+  font-size: 24px;
+  line-height: 18px;
+}
+p {
+  color: #00F;
+  margin-left: 3em;
+}
